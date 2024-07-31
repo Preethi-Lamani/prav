@@ -1,2 +1,2 @@
-# prav
-creating new repository
+# prav creating new repository
+print "hello"
